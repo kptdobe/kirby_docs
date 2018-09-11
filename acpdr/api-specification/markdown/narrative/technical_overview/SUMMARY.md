@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Overview](README.md)
-* [ACP](acp_architectural_overview/ACP-architecture-overview.md)
+* ACP
   * [Architecture](acp_architectural_overview/ACP-architecture-overview.md)
   * [Connectors](acp_connectors_overview/acp-connectors-overview.md)
 * [Identity](identity_services_architectural_overview/identity_services_architectural_overview.md)
